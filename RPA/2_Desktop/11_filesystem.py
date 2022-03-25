@@ -78,3 +78,4 @@ print(result)
 
 #코드 수정 22.03.25초
 print("github test")
+print("github test2")
