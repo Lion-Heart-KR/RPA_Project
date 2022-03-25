@@ -75,3 +75,6 @@ for root, dirs, files in os.walk("."):
             result.append(os.path.join(root, fname))
 
 print(result)
+
+#코드 수정 22.03.25초
+print("github test")
